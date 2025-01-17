@@ -2,8 +2,8 @@
 
 # Function to perform calculations
 calculate() {
-    local num1=$1
-    local num2=$2
+    local numa1=$1
+    local numa2=$2
     local operator=$3
 
     case $operator in

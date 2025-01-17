@@ -8,7 +8,7 @@ calculate() {
 
     case $operator in
         +)
-            result=$((num1 + num2))
+            result=$((numa1 + numa2))
             ;;
         -)
             result=$((num1 - num2))
